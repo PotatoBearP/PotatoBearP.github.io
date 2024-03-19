@@ -36,13 +36,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSe in Artificial Intelligence
+    - course: MSc in Artificial Intelligence
       institution: University of Edinburgh
       year: 2023
     - course: BSc in Artificial Intelligence
       institution: University of Nottingham
       year: 2022
-
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
