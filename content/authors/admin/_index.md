@@ -29,9 +29,9 @@ bio: 研究兴趣方向包括人工智能，自然语言处理，多模态模型
 
 # Interests to show in About widget
 interests:
-  - 人工智能
-  - 自然语言处理
-  - 多模态模型
+  - 熟悉Python及常用库Scikit-learn，NumPy，Pandas等。熟悉深度学习，有
+pytorch，keras，huggingface相关实践经验。了解C++，Java，PHP等软件开发语
+言，有一定软件开发经验。 
 
 # Education to show in About widget
 education:
@@ -46,23 +46,10 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
+  - Python
+  - 自然语言处理
+  - 多模态模型
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
