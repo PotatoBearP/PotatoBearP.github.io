@@ -62,5 +62,5 @@ social:
 highlight_name: true
 ---
 
-硕士毕业于爱丁堡大学,有多个AI项目经验。熟悉Python及常用库Scikit-learn，NumPy，Pandas等。熟悉深度学习，有pytorch，keras，huggingface相关实践经验。了解C++，Java，PHP等软件开发语言，有一定软件开发经验。
+硕士毕业于爱丁堡大学,多个AI项目经验。熟悉Python及常用库Scikit-learn，NumPy，Pandas等。熟悉深度学习，有pytorch，keras，huggingface相关实践经验。了解C++，Java，PHP等软件开发语言，有一定软件开发经验。
 {style="text-align: justify;"}
