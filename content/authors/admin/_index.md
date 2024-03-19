@@ -29,9 +29,9 @@ bio: 研究兴趣方向包括人工智能，自然语言处理，多模态模型
 
 # Interests to show in About widget
 interests:
-  - 熟悉Python及常用库Scikit-learn，NumPy，Pandas等。熟悉深度学习，有
-pytorch，keras，huggingface相关实践经验。了解C++，Java，PHP等软件开发语
-言，有一定软件开发经验。 
+  - 人工智能
+  - 自然语言处理
+  - 多模态模型
 
 # Education to show in About widget
 education:
@@ -42,13 +42,6 @@ education:
     - course: BSc in Artificial Intelligence
       institution: University of Nottingham
       year: 2022
-
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - Python
-  - 自然语言处理
-  - 多模态模型
 
 
 # Social/Academic Networking
