@@ -17,21 +17,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 人工智能硕士
+role: Research Intern
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Edinburgh
+  - name: Zhejiang University
     url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: 研究兴趣方向包括人工智能，自然语言处理，多模态模型
+bio: research interests include artificial intelligence, natural language processing, model merging and edge computing
 
 # Interests to show in About widget
 interests:
-  - 人工智能
-  - 自然语言处理
-  - 多模态模型
+  - NLP
+  - Model Merging
+  - Edge Computing
 
 # Education to show in About widget
 education:
@@ -62,5 +62,5 @@ social:
 highlight_name: true
 ---
 
-硕士毕业于爱丁堡大学,多个AI项目经验。熟悉Python及常用库Scikit-learn，NumPy，Pandas等。熟悉深度学习，有pytorch，keras，huggingface相关实践经验。了解C++，Java，PHP等软件开发语言，有一定软件开发经验。
+I am a Research Intern at Zhejiang University, working under the supervision of Prof. Ningyu Zhang. My current research focuses on model merging and edge computing for large language models, and I am actively seeking PhD opportunities.
 {style="text-align: justify;"}
