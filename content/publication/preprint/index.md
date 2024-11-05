@@ -66,6 +66,17 @@ projects:
 slides: example
 ---
 
-**Method
+## Method
 
-**Results
+Motivated by the parallel drawn between biological reproduction and the process of model evolution, we propose that the concept of *kinship*, which is central to evolutionary biology for understanding breeding relationships and human genealogies, can be conceptually extended to the field of model merging, specifically to describe the kinship between models.
+
+To be noted, [Ilarco et al., 2023](#) has proposed *Task Arithmetic* and offered new insights into how the merging process preserves and blends task information from the original models. A task vector is defined as the differences in weight space between fine-tuned models and a pre-trained model, and they demonstrate that arithmetic operations on these task vectors can serve as an effective method for model merging.
+
+Inspired by this idea, we introduce the concept of *Model Kinship*, a metric designed to assess the degree of similarity or relatedness between large language models (LLMs) based on their "genetic" information (a.k.a. the changes in weights during model evolution).  
+
+## Results
+
+## References
+[1] Gabriel Ilharco, Marco T´ulio Ribeiro, Mitchell Wortsman, Ludwig Schmidt, Hannaneh Hajishirzi,
+and Ali Farhadi. Editing models with task arithmetic. In The Eleventh International Confer-
+ence on Learning Representations, ICLR 2023, Kigali, Rwanda, May 1-5, 2023. OpenReview.net, 2023. URL https://openreview.net/forum?id=6t0Kwf8-jrj.
