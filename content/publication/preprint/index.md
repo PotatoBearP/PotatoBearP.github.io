@@ -67,8 +67,9 @@ slides: example
 ---
 ## NoteBook LM Audio
 
-{{< audio src="/notebook.mp3" >}}
-
+<audio controls preload="auto">
+ <source src="notebook.mp3">
+</audio>
 
 ## Method
 
