@@ -34,7 +34,7 @@ featured: true
 
 links:
 - name: Notebook LM
-  url: http://example.org
+  url: https://notebooklm.google.com/notebook/892ba99f-4781-4224-a317-d2a9f8abfed6/audio
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/zjunlp/ModelKinship'
 url_poster: ''
@@ -65,6 +65,9 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+## NoteBook LM Audio
+
+{{< audio src="notebook.mp3" >}}
 
 ## Method
 
