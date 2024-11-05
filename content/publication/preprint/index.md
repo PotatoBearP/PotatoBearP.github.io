@@ -65,7 +65,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-## Method
-
-## Results
