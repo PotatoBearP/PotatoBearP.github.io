@@ -74,6 +74,8 @@ To be noted, [Ilarco et al., 2023](#) has proposed *Task Arithmetic* and offered
 
 Inspired by this idea, we introduce the concept of *Model Kinship*, a metric designed to assess the degree of similarity or relatedness between large language models (LLMs) based on their "genetic" information (a.k.a. the changes in weights during model evolution).  
 
+![Method](method.png "")
+
 ## Results
 
 ## References
