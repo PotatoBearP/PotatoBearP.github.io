@@ -35,7 +35,7 @@ featured: true
 links:
 - name: Notebook LM
   url: https://notebooklm.google.com/notebook/892ba99f-4781-4224-a317-d2a9f8abfed6/audio
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/abs/2410.12613
 url_code: 'https://github.com/zjunlp/ModelKinship'
 url_poster: ''
 url_project: ''
