@@ -1,8 +1,10 @@
 ---
 # Leave the homepage title empty to use the site title
 title: "Yedi Hu"
-date: 2022-10-24
+date: 2024-11-26
 type: landing
+tags: ["Yedi Hu", "Model Merging", "LLMs", "Artificial Intelligence"]
+google-site-verification: "CRAN9cvkGMdjOPS_Merxyt6C0xApc0tOtLPAKPyWXhQ"
 
 design:
   # Default section spacing
