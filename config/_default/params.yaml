@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'Personal academic website.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -23,7 +23,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: 'CRAN9cvkGMdjOPS_Merxyt6C0xApc0tOtLPAKPyWXhQ'
     baidu: ''
 
 # Site header
