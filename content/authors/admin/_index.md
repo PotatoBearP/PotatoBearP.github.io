@@ -2,6 +2,10 @@
 # Display name
 title: 胡烨迪
 
+# Meta Tags
+tags: ["Yedi Hu", "Model Merging", "LLMs", "Artificial Intelligence"]
+google-site-verification: "CRAN9cvkGMdjOPS_Merxyt6C0xApc0tOtLPAKPyWXhQ"
+
 # Name pronunciation (optional)
 name_pronunciation: Hu Yedi
 
