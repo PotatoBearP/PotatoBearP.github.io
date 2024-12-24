@@ -39,8 +39,9 @@ profiles:
 
 interests:
   - NLP
+  - LLMs
   - Model Merging
-  - Edge Computing
+  - Knowledge Mechanism
 
 education:
   - area: BSc in Artificial Intelligence
@@ -56,4 +57,4 @@ education:
 
 ## About Me
 
-I am a Research Intern at Zhejiang University, working under the supervision of Prof. Ningyu Zhang. My current research focuses on model merging and edge computing for large language models, and I am actively seeking PhD opportunities.
+I am a Research Intern at Zhejiang University, working under the supervision of Prof. Ningyu Zhang. My current research focuses on model merging and mechanism analysis for large language models, and I am actively seeking PhD opportunities.
