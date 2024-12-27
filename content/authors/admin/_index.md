@@ -41,7 +41,7 @@ interests:
   - NLP
   - LLMs
   - Model Merging
-  - interpretability 
+  - Interpretability 
 
 education:
   - area: BSc in Artificial Intelligence
