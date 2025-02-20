@@ -35,27 +35,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-
-[//]: # (  - block: collection)
-
-[//]: # (    content:)
-
-[//]: # (      title: Posts)
-
-[//]: # (      text: "")
-
-[//]: # (      filters:)
-
-[//]: # (        folders:)
-
-[//]: # (          - post)
-
-[//]: # (        exclude_featured: false)
-
-[//]: # (    design:)
-
-[//]: # (      view: compact)
-
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
