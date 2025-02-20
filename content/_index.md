@@ -5,7 +5,6 @@ date: 2024-11-26
 type: landing
 
 design:
-  # Default section spacing
   spacing: "6rem"
 
 sections:
@@ -20,8 +19,7 @@ sections:
       background:
         color: black
         image:
-          # Add your image background to `assets/media/`.
-          filename: slanted-gradient.svg
+          filename: bg.svg
           filters:
             brightness: 1.0
           size: cover
