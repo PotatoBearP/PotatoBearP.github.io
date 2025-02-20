@@ -1,4 +1,7 @@
 ---
 title: Blog
-view: compact
+
+# View.
+view: card
+
 ---
