@@ -25,13 +25,23 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: collection
+  - block: list
     content:
       title: Papers
       text: ""
       filters:
         folders:
           - publication
+        exclude_featured: false
+    design:
+      view: citation
+  - block: compact
+    content:
+      title: Projects
+      text: ""
+      filters:
+        folders:
+          - project
         exclude_featured: false
     design:
       view: citation
