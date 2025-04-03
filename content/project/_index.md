@@ -1,7 +1,5 @@
 ---
-title: Recent & Upcoming Talks
-cms_exclude: true
-#url: talk
+title: Projects
 
 # View
 view: card
