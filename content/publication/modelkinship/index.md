@@ -35,14 +35,14 @@ featured: true
 
 links:
 - name: Notebook LM
-  url: https://notebooklm.google.com/notebook/892ba99f-4781-4224-a317-d2a9f8abfed6/audio
-url_pdf: https://arxiv.org/abs/2410.12613
+  url: 'https://notebooklm.google.com/notebook/892ba99f-4781-4224-a317-d2a9f8abfed6/audio'
+- name: slides
+  url: 'uploads/kinship_slides.pptx'
+url_pdf: 'https://arxiv.org/abs/2410.12613'
 url_code: 'https://github.com/zjunlp/ModelKinship'
 url_poster: 'uploads/poster-kinship.pdf'
-url_project: ''
-url_slides: 'uploads/kinship_slides.pptx'
-url_source: ''
-url_video: ''
+
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
