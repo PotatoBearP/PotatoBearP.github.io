@@ -38,9 +38,9 @@ links:
   url: https://notebooklm.google.com/notebook/892ba99f-4781-4224-a317-d2a9f8abfed6/audio
 url_pdf: https://arxiv.org/abs/2410.12613
 url_code: 'https://github.com/zjunlp/ModelKinship'
-url_poster: ''
+url_poster: 'uploads/poster-kinship.pdf'
 url_project: ''
-url_slides: ''
+url_slides: 'uploads/kinship_slides.pptx'
 url_source: ''
 url_video: ''
 
