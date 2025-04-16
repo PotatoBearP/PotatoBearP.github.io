@@ -35,7 +35,11 @@ organizations:
 profiles:
   - icon: brands/github
     url: https://github.com/PotatoBearP
-
+  - icon: at-symbol
+    url: 'mailto:yedihu.pub@gmail.com'
+    label: E-mail Me
+  - icon: brands/cv
+    url: uploads/resume.pdf
 interests:
   - NLP
   - LLMs

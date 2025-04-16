@@ -37,10 +37,10 @@ links:
 - name: Notebook LM
   url: 'https://notebooklm.google.com/notebook/892ba99f-4781-4224-a317-d2a9f8abfed6/audio'
 - name: slides
-  url: 'uploads/kinship_slides.pptx'
+  url: 'uploads/kinship_slides.pdf'
 url_pdf: 'https://arxiv.org/abs/2410.12613'
 url_code: 'https://github.com/zjunlp/ModelKinship'
-url_poster: 'uploads/poster-kinship.pdf'
+url_poster: 'uploads/kinship_poster.pdf'
 
 
 
