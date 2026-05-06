@@ -55,10 +55,6 @@ education:
     institution: University of Edinburgh
     date_start: 2023-09-17
     date_end: 2024-12-25
-  - area: Phd Candidate in Computer Science
-    institution: Beijing Institute of Technology
-    date_start: 2026-09-01
-    date_end: Present
 
 ---
 
