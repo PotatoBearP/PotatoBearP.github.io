@@ -1,5 +1,5 @@
 ---
-title: "Yedi Hu"
+title: "Yedi Hu|胡烨迪"
 date: 2024-11-26
 type: landing
 

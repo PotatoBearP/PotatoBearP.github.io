@@ -24,11 +24,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Intern
+role: Phd Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Zhejiang University
+  - name: Beijing Institute of Technology
     url:
 
 # Social network links
@@ -55,9 +55,13 @@ education:
     institution: University of Edinburgh
     date_start: 2023-09-17
     date_end: 2024-12-25
+  - area: Phd Candidate in Computer Science
+    institution: Beijing Institute of Technology
+    date_start: 2026-09-01
+    date_end: Present
 
 ---
 
 ## About Me
 
-I am a Research Intern at Zhejiang University, working under the supervision of Prof. Ningyu Zhang. My current research focuses on model merging and interpretability for large language models, and I am actively seeking PhD opportunities.
+I am currently a PhD candidate at Beijing Institute of Technology, working under the supervision of Prof. Yang Gao. My current research focuses on model merging, data synthesis, and interpretability for large language models.
