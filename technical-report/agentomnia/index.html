@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en" data-theme="system">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AgentOmnia | Technical Report | Yedi Hu</title>
+  <meta name="description" content="A short introduction to the AgentOmnia technical report, co-authored by Yedi Hu.">
+  <link rel="icon" href="/site-assets/media/icon.png">
+  <link rel="stylesheet" href="/site-assets/site-20260728-v4.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="nav shell">
+      <a class="brand" href="/">Yedi Hu</a>
+      <nav class="nav-links" aria-label="Main navigation">
+        <a data-nav href="/#bio">Bio</a>
+        <a data-nav href="/#papers">Papers</a>
+        <a data-nav href="/#technical-reports">Reports</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="hero">
+      <div class="panel hero-copy">
+        <span class="eyebrow">Technical Report · arXiv:2607.23124</span>
+        <h1>AgentOmnia: Scaling Agentic Models for Full-Scenario Applications</h1>
+        <p class="lead report-byline">Hao Jiang, Gangtao Xin, Yingdi Huang, et al.</p>
+        <div class="button-row">
+          <a class="button primary" href="https://arxiv.org/abs/2607.23124">View on arXiv</a>
+          <a class="button" href="https://arxiv.org/pdf/2607.23124">PDF</a>
+          <a class="button" href="/technical-report/">All technical reports</a>
+        </div>
+      </div>
+    </section>
+
+    <article class="panel rich-text report-article">
+      <h2>Overview</h2>
+      <p>AgentOmnia studies <em>full-scenario agentic scaling</em>: how to improve an agent across consumer, business, and employee applications rather than optimizing for a small collection of isolated tool-use benchmarks.</p>
+
+      <h2>Method</h2>
+      <p>The framework connects a Domain × Capability × Atomic Difficulty taxonomy with executable environment and task synthesis, supervised fine-tuning, online agentic reinforcement learning, and evaluation-driven iteration. Programs, solvers, and verifiers provide reliable signals for difficult tasks, while evaluation failures can be converted into Product Requirement Documents for subsequent data construction.</p>
+
+      <h2>Results</h2>
+      <p>Based on Qwen3-30B-A3B-Thinking-2507, AgentOmnia raises the OmniaBench challenging-subset pass rate from 9.16% to 37.11% and the macro-average across OmniaBench, τ²-Bench, DeepPlanning, and VitaBench from 22.86% to 41.69%. Improvements cover 76 of 90 level-one domains and all evaluated capability and atomic-difficulty dimensions.</p>
+
+      <h2>Perspective</h2>
+      <p>From my perspective, the most valuable part of AgentOmnia is not a single benchmark score, but the shared coordinate system connecting task definition, data synthesis, post-training, and evaluation. It turns model failures into actionable training requirements. The current results demonstrate broad improvement at a fixed model scale, while stronger base models remain ahead on some tasks and PRD-guided self-evolution still requires validation over more data and training rounds.</p>
+    </article>
+  </main>
+
+  <footer class="footer shell">
+    <p><a href="/technical-report/">Back to technical reports</a></p>
+  </footer>
+  <script src="/site-assets/site-20260728-v4.js"></script>
+</body>
+</html>
